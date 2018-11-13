@@ -1,0 +1,103 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+h1{
+	margin: 0;
+	text-align: center;	
+}
+h1#title{
+	left: 500px;
+	color: white;
+	text-align: none;
+}
+article p{
+	position: relative;
+	top: 10px;
+	background-color: blue;
+	color: white;	
+  	text-align: center;
+  	vertical-align: middle;
+  	line-height: normal;
+  	margin-left:10px;
+}
+div#container
+{
+	height: 37px;
+	background-color: lightblue;
+}
+img#logo{
+	width: 40px;
+	position: absolute;
+	top:0px;
+}
+div#container2{
+	position: absolute;
+	width: 15.78%;
+	height: 500px;
+	background-color: lightpink;
+	font-size: 30px;
+	min-width: 300px;
+}
+div#container3{
+	position: absolute;
+	right: 0px;
+	width: 15.78%;
+	height: 500px;
+	background-color: orange;
+	min-width: 300px;
+}
+#container4{
+	background-color: red;
+	width: 68.6%;
+	height: 600px;
+	min-width: 150px;
+	left: 300px;
+	position: absolute;
+}
+li{
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+}l
+a:hover{
+	color: white;
+}
+a:active{
+	background-color: gray;
+}
+a#link_inside1{
+	position: absolute;
+	top:10px;
+}
+a#link_inside2{
+	position: absolute;
+	top: 50px;
+}
+a#link_inside3{
+	position: absolute;
+	top: 90px;
+}
+
+img.reklama{
+	width: 52.2%;
+	position: absolute;
+	right: 75px;
+	top: 40px;
+}
+img.reklama2{
+	width: 52.2%;
+	position: absolute;
+	right: 75px;
+	bottom: 80px;
+}
+
+@media only screen and (max-width:750px){
+	#container4{
+		position: absolute;
+		left: 115px;
+	}
+
+
+}
