@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pl">
+	<head>
+		<meta charset="utf-8">
+		<title>Praca domowa 28.11.2012</title>
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/style.css">
+	</head>
+	<body>
+		<header>
+			<div id="container">
+		 		<h1>Skup Telefonów </h1>
+		 		<img id="logo" src="revolution21.png" alt="logo z garnkiem">
+			</div>
+		</header>
+			<div id="container2">
+				<nav>
+					<li>
+						<a id="link_inside1" href="?page-id=1">Kontakt</a>
+						<a id="link_inside2" href="?page-id=2">Skup</a>
+						<a id="link_inside3" href="?page-id=3">Sebastian Kozluk</a>
+					</li>				
+				</nav>
+			</div>
+			<div id="container3">
+				<a href="?page-id=4"><img src="revolution21.png" alt="jd kurwe" class="reklama" /></a>
+				<a href="?page-id=4"><img src="revolution21.png" alt="jd kurwe" class="reklama2" /></a>
+			</div>
+			<section>
+				<article id="container4">
+					<h1 id="title">Informacje o miejscu skupu!</h1>
+					<p>Nowe miejsce odebrania jd kuriwe sadiwk odasek juma jesdki pasdakesaa no siema jebac disa leszcza xdxdxd</p>
+				</article>
+			</section>	
+	</body>
+</html>
